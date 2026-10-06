@@ -26,12 +26,6 @@ Atualmente estou aprofundando meus conhecimentos em programação e desenvolvime
 - Bancos de Dados
 - Cibersegurança
 
-## Experiência
-
-Atuação com suporte técnico em sistemas ERP, envolvendo análise e resolução de problemas, consultas SQL, configurações de sistema, integrações e investigação de incidentes.
-
-Atualmente, estou direcionando minha carreira para o desenvolvimento de software, buscando transformar minha experiência em suporte e resolução de problemas em habilidades de desenvolvimento.
-
 ## Atualmente estudando
 
 - Engenharia de Software
