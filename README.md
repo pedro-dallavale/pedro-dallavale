@@ -1,40 +1,33 @@
 # Pedro Dallavale
 
-## Sobre mim
+Estudante de Engenharia de Software e profissional de tecnologia com experiência em suporte ERP N2 e análise de sistemas.
 
-Estudante de Engenharia de Software, com experiência em suporte técnico e sistemas ERP.
+Atuo na investigação de problemas, levantamento de requisitos, interpretação de regras de negócio, consultas SQL, validação de APIs e integrações e testes de software. Meu objetivo é evoluir para desenvolvimento, conectando a experiência com sistemas corporativos à construção de aplicações e serviços.
 
-Tenho interesse em desenvolvimento de software, automação, bancos de dados, APIs e cibersegurança.
+## Experiência e ferramentas
 
-Atualmente estou aprofundando meus conhecimentos em programação e desenvolvimento de software por meio de projetos práticos e estudos acadêmicos.
+- **ERP e processos corporativos:** C9, AdjutorMX e SAP S/4HANA
+- **Dados e APIs:** SQL, PostgreSQL, Firebird, DBeaver, Insomnia, Tecnospeed e PlugNotas
+- **Qualidade e processos:** testes funcionais, YouTrack e Freshdesk
+- **Versionamento:** Git e GitHub por linha de comando (branches, commits, pull requests e SSH)
 
-## Tecnologias e ferramentas
+## Estudando e praticando
 
-- Python
-- JavaScript
-- SQL
-- PostgreSQL
-- Git & GitHub
-- APIs REST
+- JavaScript, HTML e CSS
+- Vue.js e Quasar
+- Python e C
+- Playwright e testes automatizados
 
-## Áreas de interesse
+## Projetos
 
-- Desenvolvimento de Software
-- Backend
-- Automação
-- APIs e Integrações
-- Bancos de Dados
-- Cibersegurança
+- **Helpdesk System:** sistema web de gerenciamento de chamados em desenvolvimento, com requisitos, regras de negócio e roadmap documentados.
+- **Locadora Cartucho Mania:** projeto acadêmico em equipe, desenvolvido em C, com colaboração e versionamento via Git.
 
-## Atualmente estudando
+## Formação
 
-- Engenharia de Software
-- Programação
-- Desenvolvimento de sistemas
-- Bancos de dados
-- APIs
-- Cibersegurança
+Engenharia de Software — Universidade Positivo (2026–2029).
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/pedro-dallavale/?isSelfProfile=true) · [GitHub](https://github.com/pedro-dallavale)
+- [LinkedIn](https://www.linkedin.com/in/pedro-dallavale/)
+- [GitHub](https://github.com/pedro-dallavale)
