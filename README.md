@@ -1,27 +1,23 @@
 # Pedro Dallavale
 
-Estudante de Engenharia de Software e profissional de tecnologia com experiência em suporte ERP N2 e análise de sistemas.
+Sou estudante de Engenharia de Software e trabalho com sistemas ERP. Comecei no suporte técnico, passei a atuar na análise de problemas e hoje também participo de atividades de desenvolvimento e testes.
 
-Atuo na investigação de problemas, levantamento de requisitos, interpretação de regras de negócio, consultas SQL, validação de APIs e integrações e testes de software. Meu objetivo é evoluir para desenvolvimento, conectando a experiência com sistemas corporativos à construção de aplicações e serviços.
+Tenho experiência com regras de negócio, SQL, APIs e integrações. Estou estudando programação para desenvolver funcionalidades com mais autonomia.
 
 ## Experiência e ferramentas
 
-- **ERP e processos corporativos:** C9, AdjutorMX e SAP S/4HANA
-- **Dados e APIs:** SQL, PostgreSQL, Firebird, DBeaver, Insomnia, Tecnospeed e PlugNotas
-- **Qualidade e processos:** testes funcionais, YouTrack e Freshdesk
-- **Versionamento:** Git e GitHub por linha de comando (branches, commits, pull requests e SSH)
-
-## Estudando e praticando
-
-- JavaScript, HTML e CSS
-- Vue.js e Quasar
-- Python e C
-- Playwright e testes automatizados
+- **No trabalho:** análise de sistemas, SQL, PostgreSQL, Firebird, APIs REST, Insomnia, Git, GitHub, YouTrack e testes de software.
+- **Estudando e praticando:** JavaScript, HTML, CSS, Vue.js, Quasar, Node.js, AdonisJS e Python.
+- **Sistemas que conheço:** C9, AdjutorMX e SAP S/4HANA.
 
 ## Projetos
 
-- **Helpdesk System:** sistema web de gerenciamento de chamados em desenvolvimento, com requisitos, regras de negócio e roadmap documentados.
-- **Locadora Cartucho Mania:** projeto acadêmico em equipe, desenvolvido em C, com colaboração e versionamento via Git.
+- [Connection Monitor Dashboard](https://github.com/pedro-dallavale/connection-monitor-dashboard) — painel para acompanhar conexões e alertas de sistemas, feito com JavaScript e Node.js.
+- **Helpdesk System** — sistema de chamados que estou desenvolvendo para praticar programação e front-end. Repositório privado.
+
+## Objetivo
+
+Continuar evoluindo em análise de sistemas e conquistar uma oportunidade como desenvolvedor júnior.
 
 ## Formação
 
@@ -29,5 +25,4 @@ Engenharia de Software — Universidade Positivo (2026–2029).
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/pedro-dallavale/)
-- [GitHub](https://github.com/pedro-dallavale)
+[LinkedIn](https://www.linkedin.com/in/pedro-dallavale/) · [GitHub](https://github.com/pedro-dallavale)
