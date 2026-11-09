@@ -12,7 +12,6 @@ Tenho experiência com regras de negócio, SQL, APIs e integrações. Estou estu
 
 ## Projetos
 
-- [Connection Monitor Dashboard](https://github.com/pedro-dallavale/connection-monitor-dashboard) — painel para acompanhar conexões e alertas de sistemas, feito com JavaScript e Node.js.
 - **Helpdesk System** — sistema de chamados que estou desenvolvendo para praticar programação e front-end. Repositório privado.
 
 ## Objetivo
